@@ -1,0 +1,7 @@
+C:\Users\PC\PROJECTS\CrcGenerator\CrcGenerator\bin\Debug\CrcGenerator.exe.config
+C:\Users\PC\PROJECTS\CrcGenerator\CrcGenerator\bin\Debug\CrcGenerator.exe
+C:\Users\PC\PROJECTS\CrcGenerator\CrcGenerator\bin\Debug\CrcGenerator.pdb
+C:\Users\PC\PROJECTS\CrcGenerator\CrcGenerator\obj\Debug\CrcGenerator.csprojAssemblyReference.cache
+C:\Users\PC\PROJECTS\CrcGenerator\CrcGenerator\obj\Debug\CrcGenerator.csproj.CoreCompileInputs.cache
+C:\Users\PC\PROJECTS\CrcGenerator\CrcGenerator\obj\Debug\CrcGenerator.exe
+C:\Users\PC\PROJECTS\CrcGenerator\CrcGenerator\obj\Debug\CrcGenerator.pdb
